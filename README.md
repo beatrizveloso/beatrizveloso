@@ -1,4 +1,4 @@
-<img width=100% src="https://media.tenor.com/cWGkHSAZOhsAAAAM/meow-header-paws.gif"/>
+<img width=100% src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG5lM3pldHltY2o3aDh4aXk3YmZibHFlMTUzdjlreWwxNHVvdTFvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Fflfu6kOmtYmNU3B58/giphy.gif"/>
 
 <br/> 
 <br/> 
@@ -11,9 +11,9 @@
 <br/>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bibsveloso&show_icons=true&count_private=true&hide_border=true&title_color=98173d&icon_color=e8728f&text_color=111113&bg_color=e2c3c6" alt="Beatriz Veloso github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibsveloso&layout=compact&hide_border=true&title_color=98173d&text_color=e8678&bg_color=e2c3c6" />
-  <img align="center" <img src="https://github-readme-streak-stats.herokuapp.com?user=bibsveloso&theme=rose&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=beatrizveloso&show_icons=true&hide_border=true&theme=radical" alt="Beatriz Veloso github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizveloso&layout=compact&hide_border=true&theme=radical"/>
+  <img align="center" <img src="https://github-readme-streak-stats.herokuapp.com?user=beatrizveloso&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 </div>
 
 <br/>
