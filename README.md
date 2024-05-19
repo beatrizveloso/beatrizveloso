@@ -11,7 +11,7 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=beatrizveloso&show_icons=true&hide_border=true&theme=rose" alt="Beatriz Veloso github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizveloso&layout=compact&hide_border=true&theme=rose"/>
-  <img align="center" <img src="https://github-readme-streak-stats.herokuapp.com?user=beatrizvelos&theme=rose&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+  <img align="center" <img src="https://github-readme-streak-stats.herokuapp.com?user=beatrizveloso&theme=rose&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 
 <br/>
 <br/>
