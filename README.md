@@ -1,7 +1,7 @@
 <img width=100% src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHdvd2l3cDJkdmwzaG0zYnV3c3Y1YmJ0NmxwbmZhb3poaG5qanpibyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pqihJHVl9wsdvm2DIM/giphy.gif"/>
 <br/> 
 <br/>
-
+<br/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Beatriz+Veloso;I'm+18+years+old;I´m+from+Brazil,+SP;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
