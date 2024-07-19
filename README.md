@@ -44,10 +44,8 @@
 <a href="https://notion.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" alt="Notion" width="40" height="40" /> </a>
 <a href="https://vercel.com/" target="_blank" rel="noreferrer"> "<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg" alt="Python" width="40" height="40" /> </a>
 
-</p>
-</div><br/>
-<br/>
-</a>
+
+
 </p>
 <div style="display:flex;justify-content:center"> 
 <img width="200px" height="200px" src="https://i.pinimg.com/originals/7d/92/bf/7d92bfb33bde0da61704e6855bb09645.gif"/>
