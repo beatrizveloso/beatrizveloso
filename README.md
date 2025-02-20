@@ -45,6 +45,10 @@
 <a href="https://vercel.com/" target="_blank" rel="noreferrer"> "<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg" alt="Python" width="40" height="40" /> </a>
 
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{beatrizveloso}/count.svg" /></p> 
+<br></div>
 
 </p>
 <div style="display:flex;justify-content:center"> 
