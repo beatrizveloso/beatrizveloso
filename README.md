@@ -34,8 +34,12 @@ Aqui estão algumas das linguagens de programação e tecnologias que ja tive co
 
 ## 🗄️ Bancos de Dados: 
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev)
+
 ## ⚙️ Ferramentas:
-[![My Skills](https://skillicons.dev/icons?i=git,github,vercel,vscode)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=git,github,postman,vercel,vscode)](https://skillicons.dev)<br><br>
+
+## 🌈 Adds:
+[![My Skills](https://skillicons.dev/icons?i=figma,notion,discord)](https://skillicons.dev)<br><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
