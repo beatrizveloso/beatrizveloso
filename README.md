@@ -54,7 +54,9 @@ Aqui estão algumas das linguagens de programação e tecnologias que ja tive co
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{beatrizveloso}/count.svg" /></p> 
+  <p align="center">
+  <img src="https://count.getloli.com/get/@beatrizveloso?theme=booru" alt="visits"/>
+</p>
 <br></div>
 
 </p>
